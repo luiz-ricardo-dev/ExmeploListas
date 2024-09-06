@@ -19,6 +19,6 @@ for(int i = 0; i < listarString.Count;i++)
 int contador = 0;
 foreach(string i in listarString)
 {
-    Console.WriteLine($"Posição Nº {} - Valor {i}");
+    Console.WriteLine($"Posição Nº {contador} - Valor {i}");
     contador++;
 }
