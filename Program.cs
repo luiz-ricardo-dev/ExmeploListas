@@ -14,3 +14,11 @@ for(int i = 0; i < listarString.Count;i++)
 {
     Console.WriteLine($"Posição Nº {i} - Valor = {listarString[i]}");
 }
+
+//Percorrendo os índices e imprimindo na tela com o FOREACH
+int contador = 0;
+foreach(string i in listarString)
+{
+    Console.WriteLine($"Posição Nº {} - Valor {i}");
+    contador++;
+}
