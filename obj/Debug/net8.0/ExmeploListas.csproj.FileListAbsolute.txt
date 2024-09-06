@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\bin\Debug\net8.0\ExmeploListas.exe
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\bin\Debug\net8.0\ExmeploListas.deps.json
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\bin\Debug\net8.0\ExmeploListas.runtimeconfig.json
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\bin\Debug\net8.0\ExmeploListas.dll
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\bin\Debug\net8.0\ExmeploListas.pdb
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ExmeploListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ExmeploListas.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ExmeploListas.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ExmeploListas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ExmeploListas.sourcelink.json
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ExmeploListas.dll
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\refint\ExmeploListas.dll
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ExmeploListas.pdb
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ExmeploListas.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Projetos\ExmeploListas\obj\Debug\net8.0\ref\ExmeploListas.dll
